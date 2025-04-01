@@ -1,2 +1,2 @@
-# Fruits API
-My Fruits API
+# Pizzas API
+My Pizzas API

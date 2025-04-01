@@ -1,0 +1,28 @@
+{
+    "pizzas": [
+        {
+            "id": 0,
+            "name": "Cheese Volcano",
+            "ingredients": ["mozzarella", "cheddar", "parmesan"], 
+            "price":12.99
+        },
+        {
+            "id": 2,
+            "name": "Hawaiian Deluxe",
+            "ingredients": ["ham", "pineapple", "mozzarella"],
+            "price":13.75
+        },
+        {
+            "id": 3,
+            "name": "Gourmet Vegetarian",
+            "ingredients": ["mushrooms", "black olives", "spinach"],
+            "price":11.99
+        },
+        {
+            "id": 4,
+            "name": "Four Seasons",
+            "ingredients": ["artichokes", "serrano ham", "parmesan"],
+            "price":14.75
+        }
+    ]
+}
